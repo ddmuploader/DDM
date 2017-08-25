@@ -1,5 +1,4 @@
-As stated earlier, some programs cannot be analyzed using JPF.
-Because of JPF's reasons, you can not find a sequence of successes during the run.
+Because of JPF's reasons, we sometimes can not find a sequence of successes during the run.
 In order to obtain a successful sequence, we made some changes to some test files or artificially create some files.
 
 
